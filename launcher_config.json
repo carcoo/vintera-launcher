@@ -25,5 +25,5 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 	],
 	"clientFolder": "Evolisca",
 	"newClientUrl" : "https://github.com/carcoo/evolisca-launcher/releases/download/client/Evolisca.zip",
-	"clientExecutable": "Evolisca.exe"
+	"clientExecutable": "Evolisca_GL.exe"
 }

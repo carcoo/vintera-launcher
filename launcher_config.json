@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "Vintera",
-	"newClientUrl" : "https://github.com/carcoo/evolisca-launcher/releases/download/client/Vintera.zip",
+	"newClientUrl" : "https://github.com/carcoo/bintera-launcher/releases/download/client/Vintera.zip",
 	"clientExecutable": "Vintera.exe"
 }

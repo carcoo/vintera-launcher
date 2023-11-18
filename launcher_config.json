@@ -9,7 +9,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 • executable The path to the client's executable file, represented as "bin/molten.exe"
 */
 {
-	"clientVersion": "8.60",
+	"clientVersion": "8.0",
 	"launcherVersion": "1.0",
 	"replaceFolders": false,
 	"replaceFolderName": [
@@ -23,7 +23,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 			"name": "bin"
 		}
 	],
-	"clientFolder": "Evolisca",
-	"newClientUrl" : "https://github.com/carcoo/evolisca-launcher/releases/download/client/Evolisca.zip",
-	"clientExecutable": "Evolisca_GL.exe"
+	"clientFolder": "Vintera",
+	"newClientUrl" : "https://github.com/carcoo/evolisca-launcher/releases/download/client/Vintera.zip",
+	"clientExecutable": "Vintera.exe"
 }
